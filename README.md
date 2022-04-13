@@ -58,4 +58,5 @@ Running the desktop release on Linux:
 
 Note that you may have to edit the file `Gruntfile.js` if you need to better dictate the order your files load in. Note how by default the game.js and resources.js are specified in a specific order.
 
+I made this in my spare time, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game and feel like buying me coffee, you can donate at my Ethereum Network address: 0x0f57DCC50EF6F5D7a6102d3fA7Bb7a2ED738aeAE. Thank you very much!
 
